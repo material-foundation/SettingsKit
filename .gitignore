@@ -73,3 +73,6 @@ Package.resolved
 # Google App Engine
 app.yaml
 *.pem
+
+## OS X System files
+.DS_Store
